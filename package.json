@@ -98,14 +98,14 @@
   },
   "dependencies": {
     "lodash": "^4.17.11",
-    "react-redux": "^7.0.0",
+    "react-redux": "^8.0.0",
     "redux": "^4.0.1",
     "redux-saga": "^1.0.2"
   },
   "peerDependencies": {
     "@react-native-community/netinfo": ">= 6",
     "react-native": ">=0.60",
-    "react-redux": ">=7.x",
+    "react-redux": ">=8.x",
     "redux": ">=3",
     "redux-saga": ">=1.x"
   }
