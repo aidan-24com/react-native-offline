@@ -1,11 +1,11 @@
 # node.js
-node_modules/
+# node_modules/
 npm-debug.log
 
 #jest
 coverage/
 .jest/
-dist/
+# dist/
 
 # OSX
 #
